@@ -116,7 +116,8 @@ Para os clientes existentes, há informações e recursos exclusivos:
 
 **Exemplos de Comunicação e Dados:** Eles oferecem APIs para ajudar na gestão financeira, planejamento e análise de dados, e gestão de pessoal. Também utilizam painéis interativos para visualizar indicadores importantes.
 
-![Dashboards Workday](../figures/dashboards-Workday.png)
+
+
 
 
 <!--
