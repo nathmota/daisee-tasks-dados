@@ -50,6 +50,10 @@ Também é oferecido chats separados para quem já é cliente:
 
 **Exemplos de Comunicação e Dados:** APIs para gestão de cadeia de suprimentos, finanças, e projetos. Utilização de dashboards interativos para visualização de KPIs.
 
+3. SENIOR
+
+# SENIOR
+
 O site da senior possui algumas possibilidades para exploração sendo elas as seguintes:
 
 ![Opções de Exploração](../figures/senior01.png)
@@ -72,7 +76,7 @@ O que pode ser feito com a IA da empresa:
 - Está IA também Aparenta ter a possibilidade de ser consultada por WhatsApp
 
 
-3. TOTVS (Brasil)
+4. TOTVS (Brasil)
 
  # TOTVS
 
