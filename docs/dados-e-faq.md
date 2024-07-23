@@ -7,12 +7,16 @@
 -->
 
 1.SAP (Alemanha)
+
 Extensivos tutoriais, vídeos, documentações, artigos de blog e chats para diferentes tópicos e produtos.
+
 [SAP Services Support]{https://www.sap.com/brazil/services-support.html}
+
 [FAQs Page]{https://community.sap.com/t5/help/faqpage}
+
 [Q&A - Questions & Answers]{https://community.sap.com/t5/what-s-new/asking-and-answering-questions-in-the-community-after-migration/ba-p/311224}
 
-[Chat online SAP]{figures/sap1.png}
+![Chat online SAP]{../figures/sap1.png}
 
 
 2. Oracle (EUA)
