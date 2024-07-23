@@ -59,4 +59,25 @@ Também é oferecido chats separados para quem já é cliente:
 18. Infor M3 (EUA)
 19. Ramco Systems (Índia)
 20. Epicor Prophet 21 (EUA)
+21. SENIOR (Brasil)
 
+O site da senior possui algumas possibilidades para exploração sendo elas as seguintes:
+
+![Opções de Exploração](../figures/senior01.png)
+
+Selecionando a Opção do ERP caimos nesta página [ERP Page](https://www.senior.com.br/solucoes/erp-gestao-empresarial) 
+que mostra os eguintes itens:
+- Funcionalidades
+- Melhoras nas área de Atuação
+- Empresas Parceiras
+- Seção de Perguntas e Respostas
+    - Exemplos:
+
+    ![FAQ01](../figures/senior02.png)
+    ![FAQ02](../figures/senior03.png)
+    ![FAQ03](../figures/senior04.png)
+
+O que pode ser feito com a IA da empresa:
+ 
+![Funções IA](../figures/senior05.png)
+- Está IA também Aparenta ter a possibilidade de ser consultada por WhatsApp
