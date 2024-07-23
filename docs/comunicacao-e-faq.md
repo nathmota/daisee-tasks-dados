@@ -93,6 +93,31 @@ Tipos de interação com o cliente:
 
 ![TOTVS](../figures/totvs1.png)
 
+5. Workday (EUA)
+
+## Workday
+
+- **Nome Comercial:** Gerenciamento Financeiro Workday
+- **Site:** [Workday](https://www.workday.com/)
+
+![Workday](../figures/home-Workday.png)
+
+No site, é fornecido páginas detalhadas sobre os produtos e conteúdos para informar mais sobre os serviços oferecidos.
+
+**Descrição dos Modelos de Comunicação e Dados:**
+
+**Modelos de Comunicação:** O Workday oferece acesso via sites, aplicativos para celulares e APIs. Também é utilizados assistentes digitais e chatbots com inteligência artificial para ajudar os usuários: [Contato Workday](https://www.workday.com/contact.html)
+
+![Chat Workday](../figures/contact-Workday.png)
+
+Para os clientes existentes, há informações e recursos exclusivos:
+
+![Cliente Workday](../figures/client-Workday.png)
+
+**Exemplos de Comunicação e Dados:** Eles oferecem APIs para ajudar na gestão financeira, planejamento e análise de dados, e gestão de pessoal. Também utilizam painéis interativos para visualizar indicadores importantes.
+
+![Dashboards Workday](../figures/dashboards-Workday.png)
+
 
 <!--
 3. Microsoft (EUA)
