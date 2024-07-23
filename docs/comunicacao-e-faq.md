@@ -106,7 +106,7 @@ No site, é fornecido páginas detalhadas sobre os produtos e conteúdos para in
 
 **Descrição dos Modelos de Comunicação e Dados:**
 
-**Modelos de Comunicação:** O Workday oferece acesso via sites, aplicativos para celulares e APIs. Também é utilizados assistentes digitais e chatbots com inteligência artificial para ajudar os usuários: [Contato Workday](https://www.workday.com/contact.html)
+**Modelos de Comunicação:** O Workday oferece acesso via sites, aplicativos para celulares e APIs. Também é utilizados assistentes digitais e chatbots com inteligência artificial para ajudar os usuários.
 
 ![Chat Workday](../figures/contact-Workday.png)
 
