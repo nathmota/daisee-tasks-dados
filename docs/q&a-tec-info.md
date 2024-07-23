@@ -8,6 +8,20 @@ Resultados esperados:
     Exemplos de comunicação e de dados
 -->
 
+2.Oracle
+
+# Oracle
+
+É oferecido algumas opções de dúvidas para clientes e sugere o login na conta para acompanhar:
+
+![Cliente Oracle](../figures/chat.png)
+
+O chatbot entra em contanto, caso escolha a primeira opção:
+![Chatbot Oracle](../figures/chat.png)
+
+Também sugere olhar o FAQs com dúvidas recentes:
+![Cliente Oracle](../figures/faq.png)
+
 
 3. SENIOR
 
@@ -26,3 +40,4 @@ Eles possuem de forma publica a sua political de Privacidade e a Politica de Coo
 Também é possível acessar um local onde possui alguns assuntos em destaque que aparentemente são duvidas de clientes respondidas através de artigos, também existem artigos sobre alguns erros que podem ocorrer na plataforma de como solucioná-los ou quando ele foi solucionado.
 
 ![Asuntos em Destaque](../figures/seniorQA03.png)
+
