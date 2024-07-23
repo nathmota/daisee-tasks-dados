@@ -54,6 +54,8 @@ Também é oferecido chats separados para quem já é cliente:
 
 # SENIOR
 
+[Website](https://www.senior.com.br/)
+
 O site da senior possui algumas possibilidades para exploração sendo elas as seguintes:
 
 ![Opções de Exploração](../figures/senior01.png)
@@ -69,6 +71,7 @@ que mostra os eguintes itens:
     ![FAQ01](../figures/senior02.png)
     ![FAQ02](../figures/senior03.png)
     ![FAQ03](../figures/senior04.png)
+- Também existe esta página que possue outras peguntas [Perguntas Frequentes](https://cliente.senior.com.br/#/faq)
 
 O que pode ser feito com a IA da empresa:
  
