@@ -25,19 +25,19 @@ Extensivos tutoriais, vídeos, documentações, artigos de blog e chats para dif
 - **Nome Comercial:** Oracle ERP Cloud
 - **Site:** [Oracle](https://www.oracle.com/)
 
-![Oracle ERP Cloud](./figures/oracle.png)
+![Oracle ERP Cloud](../figures/oracle.png)
 
 No site eles oferecem páginas sobre o produto oferecido e conteúdos para aprender sobre.
 
-###### **Descrição dos Modelos de Comunicação e Dados:**
+**Descrição dos Modelos de Comunicação e Dados:**
 
 **Modelos de Comunicação:** Oracle ERP Cloud oferece interfaces web, aplicativos móveis, e APIs RESTful. A comunicação é reforçada por assistentes digitais e chatbots (Oracle Sales) baseados em IA: [Contato Oracle](https://www.oracle.com/corporate/contact/)
 
-![Chat Oracle](./figures/chat-oracle.png)
+![Chat Oracle](../figures/chat-oracle.png)
 
 Também é oferecido chats separados para quem já é cliente:
 
-![Cliente Oracle](./figures/cliente-oracle.png)
+![Cliente Oracle](../figures/cliente-oracle.png)
 
 **Exemplos de Comunicação e Dados:** APIs para gestão de cadeia de suprimentos, finanças, e projetos. Utilização de dashboards interativos para visualização de KPIs.
 
