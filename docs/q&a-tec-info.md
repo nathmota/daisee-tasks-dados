@@ -16,7 +16,8 @@ Resultados esperados:
 
 ![Cliente Oracle](../figures/chat.png)
 
-O chatbot entra em contanto, caso escolha a primeira opção:
+O chatbot entra em contanto, caso escolha a primeira opção: <br>
+
 ![Chatbot Oracle](../figures/chatbot.png)
 
 Também sugere olhar o FAQs com dúvidas recentes:
