@@ -1,4 +1,4 @@
-# Pesquisa de Modelos de Disponibilização de Informações e Comunicação entre as Principais Empresas no Setor de Sistemas Corporativos ERP e Seus Clientes
+# Pesquisa de Modelos Comunicação e FAQ's entre as Principais Empresas no Setor de Sistemas Corporativos ERP e Seus Clientes
 
 <!-- Resultados esperados:
     - Uma lista curada com as principais empresas e seus sistemas
