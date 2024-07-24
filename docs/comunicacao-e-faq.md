@@ -8,7 +8,7 @@
 
 1.SAP (Alemanha)
 
-# SAP
+## SAP
 
 [Website](sap.com/brazil/)
 
@@ -26,10 +26,11 @@ Tipos de interação com o cliente:
 
 ![Chat online SAP](../figures/sap1.png)
 ![Chat online SAP](../figures/sap2.png)
+![Chat online SAP](../figures/sap3.png)
 
 2. Oracle (EUA)
 
-# Oracle
+## Oracle
 
 - **Nome Comercial:** Oracle ERP Cloud
 - **Site:** [Oracle](https://www.oracle.com/)
@@ -52,7 +53,7 @@ Também é oferecido chats separados para quem já é cliente:
 
 3. SENIOR
 
-# SENIOR
+## SENIOR
 
 [Website](https://www.senior.com.br/)
 
@@ -81,7 +82,7 @@ O que pode ser feito com a IA da empresa:
 
 4. TOTVS (Brasil)
 
- # TOTVS
+ ## TOTVS
 
 Tipos de interação com o cliente:
 - Vendas por whatsapp
@@ -118,17 +119,96 @@ Para os clientes existentes, há informações e recursos exclusivos:
 
 ![Dashboards Workday](../figures/dashboards-Workday.png)
 
+6. UNIT4 (Países Baixos)
+
+## UNIT4
+
+[Website](https://www.unit4.com/)
+
+Oferece: "Our integrated AI-powered solutions & next-gen platform enhance your people’s experience of work across finance, HR & projects. Configured for swifter onboarding & best practice, our pre-built industry models boost productivity, collaboration & resilience, while helping moderate spend."
+
+Sistemas: 
+- ERP: Enterprise Resource Planning
+- HCM: Human Capital Management 
+- FP&A: Financial  Planning & Analysis
+- Financials by Coda
+- S2C: Source-to-contract by Scanmarket
+- Other Tecnologies
+
+Informações Técnicas e Treinamento: 
+- Downloads e Videos (demo videos, documents library)
+- News and Media 
+- Insights and analysys (Blogs, podcasts, webinars, reports)
+- Apresenta empresas show cases
+
+AI:
+Unit4’s AI mission 
+A modern platform to support the organization 
+Finance: Enhancing accuracy, efficiency, and impactful analysis
+Projects: Streamlining essential processes and optimizing resources
+Procurement: Optimizing invoicing
+HCM: Utilizing your people through better planning and skills tracking
+User experience and human-centric approach 
+	Using customer feedback and data 
+	Better user journeys through virtual assistance
+	Data privacy, security, and ethical considerations
+	Challenges and future outlook
+	
+Comunicação com o Cliente:
+[Página de contato](https://www.unit4.com/contact-us)
+-Formulário (First Name, Last Name, Business Email, Jog Title, Company, Country, Additional information)
+- ChatBot
+- Call center (phone)
+
+![ChatBot](../figures/unit4-1.png)
+![ChatBot](../figures/unit4-2.png)
+
+Suporte:
+[Página de suporte](https://www.unit4.com/about-us/services/support)
+- Community (forums, interação entre clientes e parceiros)
+- Documentações, downloads
+- Suporte direcionado (via login)
+
+7. LINX (Brasil)
+
+## LINX
+
+[Website](https://www.linx.com.br/)
+
+Oferece: 
+A Linx possui mais de 50 soluções em ERP, PDV, digital, autoatendimento, delivery, entre outros, para ajudar você a transformar complexidade em resultado.
+Empresa do grupo Stone Co, a Linx é especialista em tecnologia para o varejo e líder no mercado de software de gestão, com 45,6% de market share do varejo, conforme atesta o IDC.
+
+Informações Técnicas e Treinamento: 
+- Blog
+- Podcast
+- Formulário para receber conteúdos
+
+Comunicação com o cliente:
+- Formulário para falar com o time de vendas
+- Área do cliente com suporte direcionado para: financeiro, suporte e colaborador (requer login)
+- [Linx Share](https://share.linx.com.br/?_ga=2.203518096.1497493967.1721810349-15976272.1721810349): conteúdos atualizados
+- [Perguntas frequentes](https://share.linx.com.br/?_ga=2.239351555.1497493967.1721810349-15976272.1721810349#popular) 
+- [Linx digital](https://docs.linxdigital.com.br/) 
+- Chat online (requer login)
+- ChatBot
+
+Suporte Técnico:
+- Área de suporte por produto, direciona para opções call center, ou abertura de chamados (requer login)
+
+![Suporte](../figures/linx1.png)
+
+![ChatBot](../figures/linx2.png)
+
 
 <!--
 3. Microsoft (EUA)
 4. Infor (EUA)
-
 6. Sage (Reino Unido)
 7. Workday (EUA)
 8. NetSuite (EUA)
 9. Epicor (EUA)
 10. IFS (Suécia)
-11. Unit4 (Países Baixos)
 12. QAD (EUA)
 13. Deltek (EUA)
 14. Sage Intacct (EUA)
