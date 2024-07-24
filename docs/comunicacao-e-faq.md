@@ -200,6 +200,23 @@ Suporte Técnico:
 
 ![ChatBot](../figures/linx2.png)
 
+8. Ramco
+
+# Ramco
+
+[Website](https://www.ramco.com)
+
+- O site do ERP da ramco possui diversas funcionalidades algumas delas são:
+    * Lista os módulos presentes na plataforam
+    ![modulos](../figures/ramco01.png)
+    * Motivos de se escolher um ERP
+    ![motivos](../figures/ramco02.png)
+    * Uma seção onde pode ser encontrado vídeos, Livreto do produto, Estudos de caso, Artigos, Seminário on-line
+    ![opções](../figures/ramco03.png)
+    ![opções](../figures/ramco04.png)
+        + também possui uma aréa para recomendar algumas opções das categorias comentadas acima
+    * Em seguida possui a seção com as principais perguntas sobre o sistema
+    ![faqs](../figures/ramco05.png)
 
 <!--
 3. Microsoft (EUA)
